@@ -1,0 +1,34 @@
+		*{
+			padding: 0px ;
+			margin: 0px;
+		}
+
+		#header{
+			margin: auto;
+			width: 300px;
+			font-family: Arial;
+		}
+		ul, ol{
+			list-style: none ;
+		}
+		.nav li a {
+			background: none;
+			color: whitesmoke;
+			text-decoration: none;
+			padding: 10px 15px;
+			display: block;
+		}
+		.nav > li {
+			float: left;
+		}
+		.nav li a:hover{
+			background-color:#802099 ; 
+		}
+		.nav li ul{
+			display: none ;
+			position:absolute ;
+			min-width: 140px ;
+		}
+		.nav li:hover > ul {
+			display: block;
+		}
