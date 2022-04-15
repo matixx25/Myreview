@@ -1,0 +1,43 @@
+		*{
+			padding: 0px ;
+			margin: 0px;
+		}
+
+		#header{
+			margin: auto;
+			width: 500px;
+			font-family: Arial;
+		}
+		ul, ol{
+			list-style: none ;
+		}
+		.logo-image{
+	    width: 50px;
+	    height: inherit;
+	    overflow: hidden;
+	    margin-top: -6px;
+	    display: 	inline-block	;
+	    background: skyblue	;
+		}
+		.nav li a {
+			background: skyblue	 ;
+			color: whitesmoke;
+			text-decoration: none;
+			padding: 10px 15px;
+			display: inline-block			;
+			overflow: inherit			 ;
+		}
+		.nav > li {
+			float: left;
+		}
+		.nav li a:hover{
+			background-color: blueviolet	 ; 
+		}
+		.nav li ul{
+			display: none ;
+			position:absolute ;
+			min-width: 140px ;
+		}
+		.nav li:hover > ul {
+			display: block;
+}
