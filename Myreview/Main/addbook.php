@@ -116,64 +116,21 @@
 				
 				<img src="assets/menu.svg" class="menu_img">
 			</div>
-			<?php 
-				session_start();
-				if (!$_SESSION['auth']) {
-					header("Location: ../Login/Login.php");
-				} 
-			?>
+			<br>
 
-
-			<?php
-				if (isset($_SESSION['auth'])) {
-					if ($_SESSION['auth']) {	
-					} else {
-						print('<a href="../Login/Login.php">Login</a> or
-						<a href="../Login/Singup.php">Sing up</a>');
-					}		
-				}
-			?>
-		</section>
-
-		
-
-		</nav>
-	<script src="assets/javascript/app.js"></script>
+	<div id="Opinion">
+		<input type="text" name="$Opinion">
 
 
 
+		</div>
 
-
-	
-<!-- Start WOWSlider.com BODY section -->
-<div id="wowslider-container1">
-<div class="ws_images"><ul>
-		<li><img src="data1/images/140_auto_x2.jpg" alt="140_auto_x2" title="140_auto_x2" id="wows1_0"/></li>
-		<li><img src="data1/images/realismomagico_auto_x2.jpg" alt="realismo-magico_auto_x2" title="realismo-magico_auto_x2" id="wows1_1"/></li>
-		<li><img src="data1/images/librosdeterror1.jpg" alt="libros-de-terror-1" title="libros-de-terror-1" id="wows1_2"/></li>
-		<li><a href="http://wowslider.net"><img src="data1/images/lasmejoressagasdefantasiaconcluidas1024x819_auto_x2.jpg" alt="slider" title="lasmejoressagasdefantasiaconcluidas1024x819_auto_x2" id="wows1_3"/></a></li>
-		<li><img src="data1/images/cthulu_auto_x2.jpg" alt="cthulu_auto_x2" title="cthulu_auto_x2" id="wows1_4"/></li>
-	</ul></div>
-	<div class="ws_bullets"><div>
-		<a href="#" title="140_auto_x2"><span><img src="data1/tooltips/140_auto_x2.jpg" alt="140_auto_x2"/>1</span></a>
-		<a href="#" title="realismo-magico_auto_x2"><span><img src="data1/tooltips/realismomagico_auto_x2.jpg" alt="realismo-magico_auto_x2"/>2</span></a>
-		<a href="#" title="libros-de-terror-1"><span><img src="data1/tooltips/librosdeterror1.jpg" alt="libros-de-terror-1"/>3</span></a>
-		<a href="#" title="lasmejoressagasdefantasiaconcluidas1024x819_auto_x2"><span><img src="data1/tooltips/lasmejoressagasdefantasiaconcluidas1024x819_auto_x2.jpg" alt="lasmejoressagasdefantasiaconcluidas1024x819_auto_x2"/>4</span></a>
-		<a href="#" title="cthulu_auto_x2"><span><img src="data1/tooltips/cthulu_auto_x2.jpg" alt="cthulu_auto_x2"/>5</span></a>
-	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">slider</a> by WOWSlider.com v9.0</div>
-<div class="ws_shadow"></div>
-</div>	
-<script type="text/javascript" src="engine1/wowslider.js"></script>
-<script type="text/javascript" src="engine1/script.js"></script>
-<!-- End WOWSlider.com BODY section -->
-	<a href="addbook.php "><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAALpJREFUSEvdldENwjAMRF8nYITCJoxCJ4NRGAU2YAOQJSKlEb3YVisQ+Y3vLj5bl4GNz7AxP0rgCJyBffARN2ACroZTAlY4BslLuWEPPYHnuzpq4wynwF8VUOKrdJASaEFukmYRFjvoCZT7pcUq8/xdgfrlbvvqNe1Z9F8CKkHSQ/bGklvgAey8rE3dvaSwGrLF9SWRqEZ++hTX2XCTTaoOku7MYbVA1nP5X9SXWc/dAqtY0pJEv8PwI16SVTgZvIpLeQAAAABJRU5ErkJggg=="/></a>
-	
+<?php
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p>	hola</p>	
+?>
+
 
 </body>
 </html>
-	
