@@ -20,10 +20,17 @@ h1{
 	font-family: 'Sacramento', cursive;
 	font-size: 55px;
 	color: white;
+	
+
 }
 
-input-group{
+
+.menu_logo{
+	left: 60px;
+}
+.input-group{
 	width: auto;
+
 }
 .input-group input{
 	text-align: center;
@@ -31,6 +38,7 @@ input-group{
 	border-radius: 15px;
 	border: none;
 	height: 45px;
+	padding-left: 30px;
 }
 
 .input-group button{
