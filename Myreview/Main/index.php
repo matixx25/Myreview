@@ -170,9 +170,11 @@
 <script type="text/javascript" src="engine1/wowslider.js"></script>
 <script type="text/javascript" src="engine1/script.js"></script>
 <!-- End WOWSlider.com BODY section -->
+<a href="addbook.php "><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAALpJREFUSEvdldENwjAMRF8nYITCJoxCJ4NRGAU2YAOQJSKlEb3YVisQ+Y3vLj5bl4GNz7AxP0rgCJyBffARN2ACroZTAlY4BslLuWEPPYHnuzpq4wynwF8VUOKrdJASaEFukmYRFjvoCZT7pcUq8/xdgfrlbvvqNe1Z9F8CKkHSQ/bGklvgAey8rE3dvaSwGrLF9SWRqEZ++hTX2XCTTaoOku7MYbVA1nP5X9SXWc/dAqtY0pJEv8PwI16SVTgZvIpLeQAAAABJRU5ErkJggg=="/></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p>	hola</p>	
 
 </body>
 </html>
+	
 	
