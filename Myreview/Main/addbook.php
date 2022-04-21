@@ -117,9 +117,12 @@
 				<img src="assets/menu.svg" class="menu_img">
 			</div>
 			<br>
+		</section>
+	</nav>
 
-	<div id="Opinion">
-		<input type="text" name="$Opinion">
+
+	<div id="opinion">
+		<center><input type="text" name="$Opinion"></center>
 
 
 
