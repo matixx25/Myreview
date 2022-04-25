@@ -13,12 +13,12 @@
     $Usuario=$_POST['Usuario'];
     $Contraseña=$_POST['Contraseña'];
     $Confirmar_contraseña=$_POST['Confirmar_contraseña'];
-
+    $Infografia=$_POST['Infografia']
 
 
 
     // Consulta para insertar
-    $Añadir= "INSERT INTO registrotbl(Nombre,Apellido,Correo,Fecha_nacimiento,Genero,Pais,Usuario,Contraseña) VALUES ('$Nombre','$Apellido','$Correo','$Fecha_nacimiento','$Genero','$Pais','$Usuario','$Contraseña')";//Inserte en la tabla"registrotbl"(datos de tabla) los valores($valores)
+    $Añadir= "INSERT INTO registrotbl(Nombre,Apellido,Correo,Fecha_nacimiento,Genero,Pais,Usuario,Contraseña,Infografia) VALUES ('$Nombre','$Apellido','$Correo','$Fecha_nacimiento','$Genero','$Pais','$Usuario','$Contraseña','$Infografia')";//Inserte en la tabla"registrotbl"(datos de tabla) los valores($valores)
 
     $Verificar_usuario=mysqli_query($Conexion,"SELECT * FROM registrotbl WHERE Usuario='$Usuario'");//En la base de datos va a buscar en el campo "usuario" si existe el dato 
     if (mysqli_num_rows($Verificar_usuario) >0){  //Si (la catidad de veces que existe el usuario>0),mysqli_num_rows(veces en la que esta el usuario)

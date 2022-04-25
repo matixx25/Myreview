@@ -104,6 +104,7 @@
 					<div class="col-xl-12 p-5 box-singular">
 						<p>¡Escribe y lee reseñas de tus libros favoritos!</p>
 	                </div>
+	                <div id="Infografia"><input type="text" name="Infografia" placeholder="Coloca algo sobre ti y tus gustos" style="height:100px;" ></div>
 
 		            <div class="col-xl-12 p-4 box-singular2">
 						<p>Discute sobre tus obras favoritas en nuestro espacio social</p>
