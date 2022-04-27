@@ -1,0 +1,145 @@
+
+
+#footer
+{
+    height: 200px;
+}
+
+
+.conteiner{
+  margin-top:40px;
+  margin-bottom:40px;
+  margin-left:5.5%;
+  padding-left:10px ;
+  width:90%;
+  height: 1160px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 18px rgb(118, 119, 119);
+}
+label{
+    color: rgb(83, 83, 83);
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Abhaya Libre', serif;
+}
+
+.opciones{
+    height: 100px;
+    background-color: rgba(33,34,52,255);
+}
+.logo{
+    height: 100px;
+    background-color: rgba(33,34,52,255);
+}
+.logo img{
+    height: 120px;
+    width: 120px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+    padding-top: 37px;
+}
+
+.links:hover{
+    text-decoration: none;
+    color: #015367;
+    text-align: right;
+}
+
+
+
+
+
+/*Css para el footer*/
+.logo1{
+    height: 130px;
+    background-color: rgba(33,34,52,255);
+}
+.logo1 img{
+    border-radius: 50px;
+    height: 130px;
+    width: 130px;
+    padding: 0px;
+}
+.titulo1{
+    height: 130px;
+    background-color:  rgba(33,34,52,255);
+    font-family: 'Otomanopee One', sans-serif;
+    padding-top: 30px;
+    margin-left: 60px;
+}
+/*Css para los iconos de redes sociales*/
+/*Css para el icono de twitter*/
+.twitter{
+    font-size: 28px;
+    color: white;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 10px;
+}
+.twitter:hover{
+    font-size: 28px;
+    color: #85C1E9 ;
+}
+/*Css para el icono de facebook*/
+.facebook{
+    font-size: 28px;
+    color: white;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.facebook:hover{
+    font-size: 28px;
+    color: #7FB3D5;
+}
+/*Css para el icono de whastapp*/
+.instagram{
+    font-size: 28px;
+    color: white;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.instagram:hover{
+    font-size: 28px;
+    color: #d58fc3;
+    border-radius: 50px;
+}
+.redes{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 400px;
+    justify-content: space-between;
+    padding-right: 0px;
+    background-color: rgba(33,34,52,255);
+    height: 130px;
+    padding: 15px;
+}
+/*CSS para la info del home*/
+
+.home{
+    /*background-color: red;*/
+    width: 300px;
+}
+
+.home p{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 150px;
+    padding-left: 130px;
+    padding-right: 120px;
+    padding-bottom: 150px;
+    font-family: 'Aleo', serif;
+}
+
+.home img{
+    height: 260px;
+    width: 330px;
+    padding-right: 30px;
+}
